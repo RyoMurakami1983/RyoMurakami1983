@@ -91,7 +91,7 @@
 ---
 
 ## 🧠 AI駆動開発ガイドライン
-
+このガイドラインは こちらの[技術ブロク](https://zenn.dev/tmasuyama1114/articles/global_rule_file )を参考にしました。
 ### 私の哲学（宣言・3本柱）
 
 ```
